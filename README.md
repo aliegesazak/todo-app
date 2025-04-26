@@ -19,31 +19,28 @@ Bu proje, kullanıcıların görevlerini ekleyip, düzenleyip ve tamamlayabilece
 - **JavaScript (Vanilla JS)**
 - **LocalStorage**
 
-## Kurulum
-
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
-
-1. Proje dizinine gidin.
-2. `index.html` dosyasını bir tarayıcıda açarak uygulamayı başlatın.
-
 ## Kullanım
 
+- [Link](https://aliegesazak.com/todo-app/)'e tıklayarak deneyimleyebilirsiniz.
+
 ### Görev Ekleme
-1. Görev eklemek için metin kutusuna görev başlığını yazın ve "Ekle" butonuna tıklayın.
-2. Eğer bir hatırlatıcı eklemek istiyorsanız, "Hatırlatıcı" kutusunu doldurun.
+   Görev eklemek için metin kutusuna görev başlığını yazın ve "Ekle" butonuna tıklayın.
+   
+   Eğer bir hatırlatıcı eklemek istiyorsanız, "Hatırlatıcı" kutusunu doldurun.
 
 ### Görev Tamamlama
-1. Görevler, sağ tarafındaki "Tamamla" butonuna tıklanarak tamamlanabilir.
-2. Tamamlanan görevler, tamamlandığı tarihe göre sıralanır ve renk değiştirilir.
+   Görevler, sağ tarafındaki "Tamamla" butonuna tıklanarak tamamlanabilir.
+   
+   Tamamlanan görevler, tamamlandığı tarihe göre sıralanır ve renk değiştirilir.
 
 ### Görev Silme
-1. Görevleri silmek için görev kutusunun sağındaki "Sil" butonuna tıklayın.
+   Görevleri silmek için görev kutusunun sağındaki "Sil" butonuna tıklayın.
 
 ### Tema Değiştirme
-1. Tema değiştirmek için sağ üst köşedeki tema değiştirme butonuna tıklayın.
+   Tema değiştirmek için sağ üst köşedeki tema değiştirme butonuna tıklayın.
 
 ### Hatırlatıcılar
-1. Hatırlatıcı süreleri dolduğunda, bir uyarı görüntülenir ve kullanıcıya görevle ilgili hatırlatıcı gösterilir.
+   Hatırlatıcı süreleri dolduğunda, bir uyarı görüntülenir ve kullanıcıya görevle ilgili hatırlatıcı gösterilir.
 
 ## Katkı
 
