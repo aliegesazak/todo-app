@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Yapılacaklar Listesi Web Aplikasyonu</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Yapılacaklar Listesi</h1>
+    <div class="controls">
+      <button id="theme-btn">Tema Değiştir</button>
+      <button id="reset-btn">Her Şeyi Sıfırla</button>
+    </div>
+  </header>
+
+  <main>
+    <form id="task-form">
+      <input type="text" id="task-input" placeholder="Yeni görev..." required />
+      <input type="datetime-local" id="task-reminder" />
+      <button type="submit">Ekle</button>
+    </form>
+
+    <ul id="task-list"></ul>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
